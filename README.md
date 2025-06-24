@@ -42,7 +42,7 @@ While my public GitHub will soon feature personal projects and open-source contr
 
 ### Senior Frontend Software Engineer @ Flo Recruit (July 2021 - May 2025)
 As the company's first dedicated Frontend Engineer, I played a pivotal role in shaping their modern web presence:
-*   **Architected & Led V2 Platform:** Spearheaded the architecture and was the primary implementer for the company's flagship V2 Applicant Tracking System (ATS) using Next.js, TypeScript, and GraphQL. I led this from initial concept (Oct 2021) through public launch (Sept 2022) and subsequent feature expansions.
+*   **Architected & Led V2 Platform:** Spearheaded the frontend architecture and was the primary implementer of the frontend for the company's flagship V2 Applicant Tracking System (ATS) using Next.js, TypeScript, and GraphQL.
 *   **Pioneered Design System Adoption:** Proactively formalized and drove the adoption of the company's first Design System (Radix UI, TailwindCSS, Storybook) nearly a year before our first in-house designer, significantly improving UI consistency and development velocity.
 *   **Established Frontend Excellence:** Defined core frontend architecture, coding standards, and best practices. I served as the primary frontend resource and mentor, onboarding and leveling up multiple full-stack engineers.
 *   **Solved Complex UI/UX Challenges:** Engineered highly performant solutions for large-scale data display (e.g., virtualized tables, complex filtering), designed intricate accessible user interactions (e.g., multi-step wizards, precise drag-and-drop components), and resolved architectural bottlenecks.
@@ -62,17 +62,10 @@ I delivered custom software solutions for enterprise clients, specializing in in
 
 ---
 
-## 📄 My Resume
-
-For a more comprehensive look at my experience, skills, and qualifications, please visit my [**Online Resume/CV**](https://jessermoreno.com/).
-
----
-
 ## 📫 Get In Touch
 
 *   **Email:** [jesusrmor94@gmail.com](mailto:jesusrmor94@gmail.com)
 *   **LinkedIn:** [linkedin.com/in/jjrmoreno](https://www.linkedin.com/in/jjrmoreno/)
-*   **Personal Website:** [jessermoreno.com](https://jessermoreno.com/)
 
 ---
 ✨ _Thanks for visiting my profile!_ ✨
